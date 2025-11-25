@@ -2,7 +2,7 @@
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
-[MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
+[MDN Web Docs][mdn-web-docs] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
 
 ## MDN's mission
@@ -48,9 +48,9 @@ You can communicate with the MDN Web Docs team and community using the [communic
 
 <!---
 Reference links syntax is used here because of linting markdown files ("fqdn-moz-links" rule).
-See https://github.com/mdn/content/pull/21432 and https://github.com/mdn/content/pull/38369.
-It can be replaced with the normal links syntax after successfully closing https://github.com/DavidAnson/markdownlint/issues/673.
+See <https://github.com/mdn/content/pull/21432> and <https://github.com/mdn/content/pull/38369>.
+It can be replaced with the normal links syntax after successfully closing <https://github.com/DavidAnson/markdownlint/issues/673>.
 -->
 
-[mdn web docs]: https://developer.mozilla.org
+[mdn-web-docs]: https://developer.mozilla.org
 [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
